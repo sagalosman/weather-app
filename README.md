@@ -18,3 +18,8 @@ Technologies Used:
 
 ![](paris.png)
 
+Here is the search button. Type in the major cities of your choice.
+
+
+![](tokyo.png)
+
